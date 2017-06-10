@@ -3,8 +3,8 @@
 # Props
 | Name | PropType | Default | Values |
 |------|----------|---------|--------|
-| type | string | `'default'` | `'default' | 'primary' | 'alternate' | 'danger'` |
-| loading | boolean | `false` | `false | true` |
+| type | string | `'default'` | `'default' &#124; 'primary' &#124; 'alternate' &#124; 'danger'` |
+| loading | boolean | `false` | `false &#124; true` |
 | loading-text | string | `Loading...` | Any text |
 # Events
 | Name | Args | Description |
