@@ -32,9 +32,13 @@ export default {
 ```
 
 This way all Wrappers should register same set of components/names.
-# Component specs
-* [Button](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specs/Button.md)
-* [Menu Bar](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specs/MenuBar.md)
+# Component specifications
+* [Button](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/Button.md)
+* [Menu Bar](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBar.md)
+* [Menu Bar Main](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarMain.md)
+* [Menu Bar Side](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarSide.md)
+* [Menu Bar Item](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarItem.md)
+* [Menu Bar Sub Item](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarSubItem.md)
 # APIs
 * [Button](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/api/Button.md)
 * [Menu Bar](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/api/MenuBar.md)
