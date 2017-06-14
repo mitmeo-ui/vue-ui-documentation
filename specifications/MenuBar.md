@@ -1,9 +1,9 @@
 > Working in progress
 
-# Component name: `vue-ui-menu-bar`
+# Component name: `vui-menubar`
 ```
 export default {
-  name: 'vue-ui-menu-bar',
+  name: 'vui-menubar',
   data() {
     // ...
   },
@@ -14,9 +14,9 @@ export default {
 * [MenuBarMain](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarMain.md)
 * [MenuBarSide](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarSide.md)
 # Props
-| Name | PropType | Required | Default | Description | Requirement |
-|------|-----------|----------|---------|-------------|-------------|
-| icon | string | NO | `'home'` | Brand icon | Font Awesome icons |
-| icon-click | function | NO | `null` | Handler for the icon click | |
+| Name | PropType | Required | Default | Description |
+|------|-----------|----------|---------|-------------|
+| icon | string | NO | `'home'` | Brand icon, Font Awesome icons |
+| icon-click | function | NO | `null` | Handler for the icon click |
 # Events
 > N/A

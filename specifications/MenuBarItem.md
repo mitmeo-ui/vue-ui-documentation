@@ -1,9 +1,9 @@
 > Working in progress
 
-# Component name: `vue-ui-menu-bar-item`
+# Component name: `vui-menubar-item`
 ```
 export default {
-  name: 'vue-ui-menu-bar-item',
+  name: 'vui-menubar-item',
   data() {
     // ...
   },
@@ -13,9 +13,9 @@ export default {
 # Composition
 * [MenuBarSubItem](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarSide.md)
 # Props
-| Name | PropType | Required | Default | Description | Requirement |
-|------|-----------|----------|---------|-------------|-------------|
-| item | [item](#item-object) | NO | `null` | Bindable item | |
+| Name | PropType | Required | Default | Description |
+|------|-----------|----------|---------|-------------|
+| item | [item](#item-object) | NO | `null` | Bindable item |
 # `item` object
 | Property | Data type | Description |
 |----------|-----------|-------------|

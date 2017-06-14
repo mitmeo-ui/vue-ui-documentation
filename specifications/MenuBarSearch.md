@@ -1,9 +1,9 @@
 > Working in progress
 
-# Component name: `vue-ui-menu-bar-search`
+# Component name: `vui-menubar-search`
 ```
 export default {
-  name: 'vue-ui-menu-bar-search',
+  name: 'vui-menubar-search',
   data() {
     // ...
   },
@@ -13,9 +13,9 @@ export default {
 # Composition
 > N/A
 # Props
-| Name | PropType | Required | Default | Description | Requirement |
-|------|-----------|----------|---------|-------------|-------------|
-| search | function | NO | `null` | Search callback |  |
-| search-placeholder | string | NO | `Press Enter to search...` | Placeholder shows on the search box | |
+| Name | PropType | Required | Default | Description |
+|------|-----------|----------|---------|-------------|
+| search | function | NO | `null` | Search callback |
+| search-placeholder | string | NO | `Press Enter to search...` | Placeholder shows on the search box |
 # Events
 > N/A

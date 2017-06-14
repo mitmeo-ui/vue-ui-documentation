@@ -1,9 +1,9 @@
 > Working in progress
 
-# Component name: `vue-ui-menu-bar-sub-item`
+# Component name: `vui-menubar-subitem`
 ```
 export default {
-  name: 'vue-ui-menu-bar-sub-item',
+  name: 'vui-menubar-subitem',
   data() {
     // ...
   },
@@ -13,8 +13,8 @@ export default {
 # Composition
 > N/A
 # Props
-| Name | PropType | Required | Default | Description | Requirement |
-|------|-----------|----------|---------|-------------|-------------|
-| item | [item](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarItem.md#item-object) | NO | `null` | Bindable item | |
+| Name | PropType | Required | Default | Description |
+|------|-----------|----------|---------|-------------|
+| item | [item](https://github.com/mitmeo-ui/vue-ui-documentation/blob/master/specifications/MenuBarItem.md#item-object) | NO | `null` | Bindable item |
 # Events
 > N/A
